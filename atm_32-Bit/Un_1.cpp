@@ -198,8 +198,8 @@ void scroll_note()	//welcome note
 		gotoxy(j,4);cout<<"|";
 		Sleep(30);
 	}
-	gotoxy(56,23);cout<<"Rohith    160114737050";
-	gotoxy(56,24);cout<<"SaiCharan 160114737051";
+	gotoxy(56,23);cout<<"Shreya Mandil";
+	gotoxy(56,24);cout<<"shivam Garg";
 	Sleep(2000);
 
 }
